@@ -11,7 +11,7 @@ body{
 .SideBar{
   width: 250px;
   height: 100%;
-  background: blueviolet;
+  background: #13191f;
 }
 .SideBarList{
   height:auto;
@@ -20,7 +20,7 @@ body{
 }
 
 .SideBarList #active{
-  background-color: black;
+  background-color: #293846;
 
 }
 .SideBarList .row{
@@ -38,7 +38,7 @@ body{
 .SideBarList .row:hover{
   cursor: pointer;
   color: black;
-  background-color: blanchedalmond;
+  background-color: #293846;
 }
 
 .row #icon{
